@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubhankar!
-- 👀 I’m interested in Blockchain, AI/ML.
+- 👀 I’m interested in AI/ML, Data Science/Analytics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m not currently looking to collaborate.
 - 📫 How to reach me :-
